@@ -1,0 +1,19 @@
+{
+  "pelis": [
+    {
+      "year": 2001,
+      "title": "El señor de los anillos",
+      "country": "EEUU"
+    },
+    {
+      "year": 1998,
+      "title": "Torrente el brazo tonto de la ley",
+      "country": "ESPAÑA"
+    },
+    {
+      "year": 1990,
+      "title": "Cyrano de Bergerac",
+      "country": "FRANCIA"
+    }
+  ]
+}
