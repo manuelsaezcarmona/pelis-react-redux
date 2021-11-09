@@ -1,4 +1,4 @@
-import { PELIS } from './peli-data';
+import { PELIS } from '../models/peli-data';
 
 export const stockName = 'peliStock';
 
